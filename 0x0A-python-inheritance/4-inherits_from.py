@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''The module for the inherits_from method.'''
+'''The module for inherits_from method.'''
 
 
 def inherits_from(obj, a_class):
